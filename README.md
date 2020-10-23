@@ -39,3 +39,15 @@ program.java should be the name of the program file.
 
 
 the .java file must be placed inside jdk-env-windows for the script to work.
+
+
+## BINARIES USED: ##
+
+
+curl (tools/curl): https://curl.haxx.se/windows/
+
+
+7za (tools/7za): https://www.7-zip.org/
+
+
+openlogic-jdk-8 (jdk8-32): https://www.openlogic.com/openjdk-downloads
