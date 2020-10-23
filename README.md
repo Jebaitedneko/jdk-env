@@ -39,3 +39,9 @@ program.java should be the name of the program file.
 
 
 the .java file must be placed inside jdk-env-linux for the script to work.
+
+
+## BINARIES USED: ##
+
+
+openlogic-jdk-8 (jdk8-32): https://www.openlogic.com/openjdk-downloads
